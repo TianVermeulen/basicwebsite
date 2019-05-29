@@ -13,7 +13,7 @@
         <a class="nav-link" href="/about">About</a>
       </li>
       <li class="{{Request::is('contact') ? 'active' : ''}}">
-        <a class="nav-link" href="/contact" tabindex="-1" aria-disabled="true">Contact</a>
+        <a class="nav-link" href="/contact" tabindex="-1" aria-disabled="true">Open</a>
       </li>
       <!-- <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Dropdown</a>
